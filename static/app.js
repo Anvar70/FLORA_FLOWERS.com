@@ -354,4 +354,8 @@ setTimeout(()=>{
  if(nav && user && !user.is_staff && !nav.querySelector('[data-favorites-link]')){
   nav.insertAdjacentHTML('beforeend','<a href="'+root()+'shop/?favorites=true" data-favorites-link>'+icon('heart')+'<span>'+t('favorites')+'</span></a>');
  }
+ if(nav && user?.is_staff){
+  const ordersLink=Array.from(nav.querySelectorAll('a')).find(a=>a.getAttribute('href')===root()+'orders/');
+  if(ordersLink) ordersLink.querySelector('span').textContent='Buyurtmalar';
+ }
 },0);setInterval(poll,12000);setTimeout(poll,1500);
