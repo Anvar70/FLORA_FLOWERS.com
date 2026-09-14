@@ -3,7 +3,7 @@ services:
     name: flora-flowers
     runtime: python
     plan: free
-    buildCommand: pip install -r requirements.txt && python manage.py migrate && python manage.py createcachetable && python manage.py seed_demo && python manage.py collectstatic --noinput
+    buildCommand: pip install -r requirements.txt && python manage.py migrate && python manage.py createcachetable && python manage.py seed_demo && python manage.py ensure_admin && python manage.py collectstatic --noinput
     startCommand: waitress-serve --listen=0.0.0.0:$PORT config.wsgi:application
     healthCheckPath: /
     envVars:
@@ -25,3 +25,7 @@ services:
         value: sqlite
       - key: PYTHON_VERSION
         value: "3.12.8"
+      - key: FLORA_ADMIN_EMAIL
+        value: "admin@flora.uz"
+      - key: FLORA_ADMIN_PASSWORD
+        value: "FloraAdmin-2026!"
