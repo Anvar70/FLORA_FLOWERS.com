@@ -1,0 +1,23 @@
+services:
+  - type: web
+    name: flora-flowers
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt && python manage.py migrate && python manage.py createcachetable && python manage.py seed_demo && python manage.py collectstatic --noinput
+    startCommand: waitress-serve --listen=0.0.0.0:$PORT config.wsgi:application
+    healthCheckPath: /
+    envVars:
+      - key: DJANGO_DEBUG
+        value: "0"
+      - key: DJANGO_SECRET_KEY
+        generateValue: true
+      - key: DJANGO_ALLOWED_HOSTS
+        value: "*"
+      - key: SHOP_CURRENCY
+        value: UZS
+      - key: SHOP_DELIVERY_FEE
+        value: "25000.00"
+      - key: DB_ENGINE
+        value: sqlite
+      - key: PYTHON_VERSION
+        value: "3.12.8"
