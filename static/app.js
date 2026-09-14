@@ -147,7 +147,8 @@ async function render(preserve=false){
  const token=++rendering;const snapshots=preserve?$$('form').map(f=>({id:f.id,values:$$('input:not([type=file]),textarea,select',f).map(x=>({name:x.name,value:x.value,checked:x.checked}))})):[];
  shell();syncDrawer();
  try{
-  if(path==='/')await landing();
+  if(path==='/' && !user)await landing();
+  else if(path==='/' && user){path=user.is_staff?'/manage/overview/':'/workspace/dashboard/';history.replaceState({},'',path);await dashboard();}
   else if(path==='/auth/')authPage();
   else if(!user){navigate('/auth/');return;}
   else{
@@ -345,7 +346,7 @@ matchMedia('(max-width:900px)').addEventListener('change',syncDrawer);
 localStorage.setItem('flora-language',lang);render();
 setTimeout(()=>{
  const hero=document.querySelector('.hero');
- if(hero){
+ if(hero && !user){
   hero.querySelector('h1').innerHTML=t('about');
   hero.querySelector('p').innerHTML=t('story_text');
   hero.querySelector('.hero-actions').innerHTML='<a class="button" href="/auth/" data-auth="register">'+t('register')+icon('arrow-right')+'</a><a class="text-button" href="/auth/" data-auth="login">'+t('login')+' ↗</a>';
