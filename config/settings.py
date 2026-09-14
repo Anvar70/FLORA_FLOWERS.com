@@ -42,7 +42,10 @@ SESSION_COOKIE_SAMESITE = 'Lax'
 SESSION_COOKIE_SECURE = not DEBUG
 CSRF_COOKIE_SECURE = not DEBUG
 CSRF_TRUSTED_ORIGINS = list(filter(None,os.getenv('DJANGO_CSRF_TRUSTED_ORIGINS','').split(',')))
-SECURE_SSL_REDIRECT = not DEBUG
+# Render terminates TLS at its proxy. Trust its forwarded scheme so Django
+# does not redirect an already-HTTPS request back to HTTPS forever.
+SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
+SECURE_SSL_REDIRECT = os.getenv('DJANGO_SECURE_SSL_REDIRECT', '0') == '1'
 SECURE_HSTS_SECONDS = 31536000 if not DEBUG else 0
 SECURE_HSTS_INCLUDE_SUBDOMAINS = not DEBUG
 SECURE_HSTS_PRELOAD = not DEBUG

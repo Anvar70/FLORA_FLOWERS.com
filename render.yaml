@@ -9,6 +9,8 @@ services:
     envVars:
       - key: DJANGO_DEBUG
         value: "0"
+      - key: DJANGO_SECURE_SSL_REDIRECT
+        value: "0"
       - key: DJANGO_SECRET_KEY
         generateValue: true
       - key: DJANGO_ALLOWED_HOSTS

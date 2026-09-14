@@ -121,12 +121,12 @@ API collections are paginated (24 items/page). Main routes include /api/products
 This deliverable is running locally, not published to a hosting provider. A Python/WSGI-compatible host is needed. Do not run Django's development server in production.
 
 1. Install requirements; use DB_ENGINE=postgresql with POSTGRES_* variables. PostgreSQL support is configured but needs your database and has not been exercised in this local SQLite environment.
-2. Set DJANGO_DEBUG=0, a cryptographically random DJANGO_SECRET_KEY, correct DJANGO_ALLOWED_HOSTS and HTTPS DJANGO_CSRF_TRUSTED_ORIGINS. The app refuses production startup without a secret. .env is excluded from source control.
+2. Set DJANGO_DEBUG=0, a cryptographically random DJANGO_SECRET_KEY, correct DJANGO_ALLOWED_HOSTS and HTTPS DJANGO_CSRF_TRUSTED_ORIGINS. The app refuses production startup without a secret. .env is excluded from source control. On Render, leave DJANGO_SECURE_SSL_REDIRECT=0 because Render terminates TLS and forwards X-Forwarded-Proto; SECURE_PROXY_SSL_HEADER is configured for that proxy.
 3. Configure SMTP, shop contact placeholders, currency/delivery policy and real catalog/inventory.
 4. Run migrate, createcachetable and collectstatic. Create the owner using create_admin.
 5. Run a production WSGI server, e.g. `waitress-serve --listen=127.0.0.1:8000 config.wsgi:application`, behind an HTTPS reverse proxy.
 6. Serve STATIC_ROOT under /static/ and MEDIA_ROOT under /media/ with the proxy/storage layer. Treat media as untrusted, never executable. Do not expose the project directory or .env.
-7. If TLS terminates at a trusted reverse proxy, configure SECURE_PROXY_SSL_HEADER only after the proxy strips any client-provided forwarded-protocol header. Secure cookies, HSTS, SSL redirect, content-type sniffing protection and frame denial are enabled in production.
+7. If TLS terminates at a trusted reverse proxy, configure SECURE_PROXY_SSL_HEADER only after the proxy strips any client-provided forwarded-protocol header. This project trusts Render's forwarded HTTPS scheme and keeps DJANGO_SECURE_SSL_REDIRECT disabled there to avoid an HTTPS redirect loop. Secure cookies, HSTS, content-type sniffing protection and frame denial remain enabled in production.
 8. Restrict /maintenance/, add backups, monitoring and infrastructure-level rate limiting. Run `manage.py check --deploy` under the production environment.
 
 Production integrations requiring owner configuration: public hosting/domain/TLS, PostgreSQL service, SMTP, real shop details and delivery coverage, optional payment provider. Local COD, internal notifications and conversations need no external credentials.
