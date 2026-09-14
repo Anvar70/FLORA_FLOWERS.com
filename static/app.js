@@ -137,6 +137,8 @@ async function adminProducts(){
 async function customersPage(){
  const d=await api('/api/customers/?'+location.search.slice(1));
  $('#content').innerHTML=heading('customers')+'<form id="customer-search" class="toolbar">'+field('search','search',new URLSearchParams(location.search).get('search')||'')+'<button>'+t('search')+'</button></form><div class="card table-wrap"><table><thead><tr><th>'+t('name')+'</th><th>'+t('email')+'</th><th>'+t('phone')+'</th><th>'+t('language')+'</th></tr></thead><tbody>'+d.results.map(c=>'<tr><td>'+esc(c.first_name)+'</td><td>'+esc(c.email)+'</td><td>'+esc(c.phone)+'</td><td>'+esc(c.language)+'</td></tr>').join('')+'</tbody></table></div>'+pagination(d);
+ const customerSearch=document.querySelector('#customer-search label');
+ if(customerSearch) customerSearch.firstChild.nodeValue='Mijoz qidirish';
 }
 async function guideAdmin(){
  const config=await api('/api/guide/');
