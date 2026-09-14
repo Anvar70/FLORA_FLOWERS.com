@@ -29,3 +29,11 @@ services:
         value: "admin@flora.uz"
       - key: FLORA_ADMIN_PASSWORD
         value: "FloraAdmin-2026!"
+      - key: SHOP_PHONE
+        value: "+998995407997"
+      - key: SHOP_EMAIL
+        value: "anvarxusniddinov7997@gmail.com"
+      - key: SHOP_ADDRESS
+        value: "Bizning filialimiz: Toshkent shahri, Oybek metro bekati yonida"
+      - key: SHOP_TELEGRAM
+        value: "@u_500vh"

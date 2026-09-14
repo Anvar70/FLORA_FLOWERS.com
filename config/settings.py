@@ -63,4 +63,5 @@ DEFAULT_FROM_EMAIL = os.getenv('DEFAULT_FROM_EMAIL','flowers@example.invalid')
 SHOP_CURRENCY = os.getenv('SHOP_CURRENCY','UZS')
 SHOP_DELIVERY_FEE = Decimal(os.getenv('SHOP_DELIVERY_FEE','25000.00'))
 SHOP_CONTACT = {k:os.getenv('SHOP_'+k.upper(), '[Configure shop '+k+']') for k in ['phone','address','email']}
+SHOP_CONTACT['telegram'] = os.getenv('SHOP_TELEGRAM', '@u_500vh')
 DELIVERY_SLOTS = ['09:00–12:00','12:00–15:00','15:00–18:00']

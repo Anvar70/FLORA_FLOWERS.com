@@ -352,6 +352,8 @@ setTimeout(()=>{
   hero.querySelector('.hero-actions').innerHTML='<a class="button" href="/auth/" data-auth="register">'+t('register')+icon('arrow-right')+'</a><a class="text-button" href="/auth/" data-auth="login">'+t('login')+' ↗</a>';
  }
  const nav=document.querySelector('.nav-links');
+ const contacts=document.querySelector('.contact-list');
+ if(contacts && !contacts.querySelector('[data-telegram]')) contacts.insertAdjacentHTML('beforeend','<div data-telegram>✈ <a href="https://t.me/u_500vh" target="_blank" rel="noopener">@u_500vh</a></div>');
  if(nav && user && !user.is_staff && !nav.querySelector('[data-favorites-link]')){
   nav.insertAdjacentHTML('beforeend','<a href="'+root()+'shop/?favorites=true" data-favorites-link>'+icon('heart')+'<span>'+t('favorites')+'</span></a>');
  }
