@@ -342,4 +342,16 @@ document.addEventListener('click',e=>{const side=$('#sidebar');if(side?.classLis
 function syncDrawer(){const side=$('#sidebar');if(side){side.inert=matchMedia('(max-width:900px)').matches&&!side.classList.contains('open');side.setAttribute('aria-hidden',String(side.inert));}}
 function setDrawer(open){const side=$('#sidebar');if(!side)return;side.classList.toggle('open',open);syncDrawer();$('[data-action="menu"]')?.setAttribute('aria-expanded',String(open));if(open)$('a',side).focus();else $('[data-action="menu"]')?.focus();}
 matchMedia('(max-width:900px)').addEventListener('change',syncDrawer);
-localStorage.setItem('flora-language',lang);render();setInterval(poll,12000);setTimeout(poll,1500);
+localStorage.setItem('flora-language',lang);render();
+setTimeout(()=>{
+ const hero=document.querySelector('.hero');
+ if(hero){
+  hero.querySelector('h1').innerHTML=t('about');
+  hero.querySelector('p').innerHTML=t('story_text');
+  hero.querySelector('.hero-actions').innerHTML='<a class="button" href="/auth/" data-auth="register">'+t('register')+icon('arrow-right')+'</a><a class="text-button" href="/auth/" data-auth="login">'+t('login')+' ↗</a>';
+ }
+ const nav=document.querySelector('.nav-links');
+ if(nav && user && !user.is_staff && !nav.querySelector('[data-favorites-link]')){
+  nav.insertAdjacentHTML('beforeend','<a href="'+root()+'shop/?favorites=true" data-favorites-link>'+icon('heart')+'<span>'+t('favorites')+'</span></a>');
+ }
+},0);setInterval(poll,12000);setTimeout(poll,1500);
