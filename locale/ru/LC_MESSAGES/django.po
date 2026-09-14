@@ -1,0 +1,776 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: ru\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "A LITTLE NATURE. A LOT OF FEELING."
+msgstr "НЕМНОГО ПРИРОДЫ. МНОГО ЧУВСТВ."
+
+msgid "A few little details. A bouquet that feels just right."
+msgstr "Несколько ответов — и подходящий букет."
+
+msgid "A few things you might wonder"
+msgstr "Частые вопросы"
+
+msgid "A guided helper, not AI"
+msgstr "Помощник по правилам, не ИИ"
+
+msgid "A hand-arranged bouquet of fresh flowers"
+msgstr "Букет свежих цветов ручной сборки"
+
+msgid "A little closer to you, in your language."
+msgstr "Станем ближе — на вашем языке."
+
+msgid "A little overview of your floral world."
+msgstr "Ваш цветочный мир в одном месте."
+
+msgid "A note from the heart"
+msgstr "Слова от сердца"
+
+msgid "Active"
+msgstr "Активен"
+
+msgid "Add a personal gift message, on us."
+msgstr "Добавьте бесплатное личное послание."
+
+msgid "Add address"
+msgstr "Добавить адрес"
+
+msgid "Add to cart"
+msgstr "В корзину"
+
+msgid "Added to your cart"
+msgstr "Добавлено в корзину"
+
+msgid "Administrator"
+msgstr "Администратор"
+
+msgid "Administrator accounts are created by the shop owner."
+msgstr "Аккаунты администраторов создаёт владелец магазина."
+
+msgid "All"
+msgstr "Все"
+
+msgid "Appearance"
+msgstr "Оформление"
+
+msgid "Apply filters"
+msgstr "Применить фильтры"
+
+msgid "Archive"
+msgstr "Архивировать"
+
+msgid "Archive this item? It will no longer be available to customers. Order history is preserved."
+msgstr "Архивировать? Товар станет недоступен покупателям. История заказов сохранится."
+
+msgid "Arranged with heart"
+msgstr "Собрано с любовью"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Beautiful moments begin here."
+msgstr "Прекрасные моменты начинаются здесь."
+
+msgid "Birthday"
+msgstr "День рождения"
+
+msgid "Bouquet size"
+msgstr "Размер букета"
+
+msgid "Browse collections or let Flower Finder guide you."
+msgstr "Посмотрите коллекции или воспользуйтесь подбором."
+
+msgid "Browse flowers"
+msgstr "Выбрать цветы"
+
+msgid "Business contact details must be configured by the shop owner."
+msgstr "Контактные данные должен настроить владелец магазина."
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Cancelled"
+msgstr "Отменён"
+
+msgid "Cash on delivery"
+msgstr "Наличные при доставке"
+
+msgid "Change email"
+msgstr "Изменить почту"
+
+msgid "Change password"
+msgstr "Изменить пароль"
+
+msgid "Check the assistant JSON structure and translations."
+msgstr "Проверьте JSON и переводы помощника."
+
+msgid "Check the filter values."
+msgstr "Проверьте значения фильтров."
+
+msgid "Check your new email for a confirmation link. Local demo: see the server email log."
+msgstr "Проверьте новую почту для подтверждения. В локальном демо смотрите журнал почты сервера."
+
+msgid "Checkout"
+msgstr "Оформить заказ"
+
+msgid "Choose a date and a delivery window."
+msgstr "Выберите дату и время доставки."
+
+msgid "Choose tomorrow through the next 30 days, with a morning, midday, or afternoon delivery window. Delivery coverage is confirmed by the seller; contact them before ordering outside your area."
+msgstr "Выберите дату от завтра до 30 дней и временной интервал. Зону доставки подтверждает продавец; заранее уточните доставку в отдалённые районы."
+
+msgid "Choose your language"
+msgstr "Выберите язык"
+
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "Close navigation"
+msgstr "Закрыть меню"
+
+msgid "Collected revenue"
+msgstr "Полученная выручка"
+
+msgid "Collection"
+msgstr "Коллекция"
+
+msgid "Collections"
+msgstr "Коллекции"
+
+msgid "Color"
+msgstr "Цвет"
+
+msgid "Confirm"
+msgstr "Подтвердить"
+
+msgid "Confirm cash received"
+msgstr "Подтвердить получение оплаты"
+
+msgid "Confirm password"
+msgstr "Повторите пароль"
+
+msgid "Confirm your current password to change your email and login address."
+msgstr "Подтвердите текущий пароль для изменения почты и адреса входа."
+
+msgid "Confirmed"
+msgstr "Подтверждён"
+
+msgid "Connection failed. Your changes were not saved. Please retry."
+msgstr "Нет соединения. Изменения не сохранены. Повторите попытку."
+
+msgid "Contact seller"
+msgstr "Написать продавцу"
+
+msgid "Continue"
+msgstr "Продолжить"
+
+msgid "Conversations"
+msgstr "Переписка"
+
+msgid "Create"
+msgstr "Создать"
+
+msgid "Create an account"
+msgstr "Создать аккаунт"
+
+msgid "Current password"
+msgstr "Текущий пароль"
+
+msgid "Currently unavailable"
+msgstr "Сейчас недоступно"
+
+msgid "Customer"
+msgstr "Покупатель"
+
+msgid "Customers"
+msgstr "Клиенты"
+
+msgid "Dark mode"
+msgstr "Тёмная тема"
+
+msgid "Dashboard"
+msgstr "Главная панель"
+
+msgid "Default address"
+msgstr "Основной адрес"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Delete account"
+msgstr "Удалить аккаунт"
+
+msgid "Delivered"
+msgstr "Доставлен"
+
+msgid "Delivered and paid orders only"
+msgstr "Только доставленные и оплаченные заказы"
+
+msgid "Delivery address"
+msgstr "Адрес доставки"
+
+msgid "Delivery date"
+msgstr "Дата доставки"
+
+msgid "Delivery fee"
+msgstr "Стоимость доставки"
+
+msgid "Delivery window"
+msgstr "Интервал доставки"
+
+msgid "Delivery, made simple"
+msgstr "Простая доставка"
+
+msgid "Demonstration shop · sample catalog"
+msgstr "Демонстрационный магазин · пример каталога"
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "Details"
+msgstr "Подробнее"
+
+msgid "Each step uses occasion, color, flower_type or max_price. Include en, uz and ru translations for every label and response."
+msgstr "Шаги используют occasion, color, flower_type или max_price. Добавьте переводы en, uz и ru для всех текстов."
+
+msgid "Edit"
+msgstr "Изменить"
+
+msgid "Email address"
+msgstr "Электронная почта"
+
+msgid "Email or password is incorrect."
+msgstr "Неверная почта или пароль."
+
+msgid "Email updated successfully."
+msgstr "Электронная почта обновлена."
+
+msgid "Enter a new address"
+msgstr "Ввести новый адрес"
+
+msgid "Enter a valid email address."
+msgstr "Введите корректную почту."
+
+msgid "Enter a valid phone number."
+msgstr "Введите корректный телефон."
+
+msgid "Enter your full name."
+msgstr "Введите полное имя."
+
+msgid "Explore the collection"
+msgstr "Смотреть коллекцию"
+
+msgid "Favorites"
+msgstr "Избранное"
+
+msgid "Filters"
+msgstr "Фильтры"
+
+msgid "Find your flowers"
+msgstr "Выберите цветы"
+
+msgid "Find your perfect bouquet"
+msgstr "Найти свой букет"
+
+msgid "Flora is a demonstration floral studio built around a simple idea: meaningful gestures need no occasion. Our sample collections pair soft colors, natural textures, and thoughtful details. Make them your own."
+msgstr "Flora — демонстрационная цветочная студия с простой идеей: для внимания не нужен повод. Наши коллекции объединяют нежные цвета, природные фактуры и заботу о деталях."
+
+msgid "Flower Finder"
+msgstr "Подбор цветов"
+
+msgid "Flower care"
+msgstr "Уход за цветами"
+
+msgid "Flower shop"
+msgstr "Магазин цветов"
+
+msgid "Flower type"
+msgstr "Вид цветов"
+
+msgid "Flowers for the moments that matter."
+msgstr "Цветы для важных мгновений."
+
+msgid "Follow your order and chat with the seller."
+msgstr "Следите за заказом и пишите продавцу."
+
+msgid "Forgot your password?"
+msgstr "Забыли пароль?"
+
+msgid "Fresh, always"
+msgstr "Всегда свежие"
+
+msgid "From"
+msgstr "От"
+
+msgid "From our studio to their smile"
+msgstr "Из студии — к вашей улыбке"
+
+msgid "Full name"
+msgstr "Полное имя"
+
+msgid "Gift message (optional)"
+msgstr "Послание (необязательно)"
+
+msgid "Guided assistant"
+msgstr "Помощник"
+
+msgid "Hello"
+msgstr "Здравствуйте"
+
+msgid "Home"
+msgstr "Главная"
+
+msgid "How do I keep flowers fresh?"
+msgstr "Как сохранить свежесть цветов?"
+
+msgid "How do I pay?"
+msgstr "Как оплатить?"
+
+msgid "If this account exists, a reset link has been sent. Local demo: check the server email log."
+msgstr "Если аккаунт существует, ссылка отправлена. В локальном демо проверьте журнал почты сервера."
+
+msgid "If you did not request this, ignore this email."
+msgstr "Если вы не запрашивали это, проигнорируйте письмо."
+
+msgid "Images must be no larger than 5 MB."
+msgstr "Изображение не должно превышать 5 МБ."
+
+msgid "In progress"
+msgstr "В работе"
+
+msgid "In stock"
+msgstr "В наличии"
+
+msgid "In stock only"
+msgstr "Только в наличии"
+
+msgid "Just because"
+msgstr "Без повода"
+
+msgid "Label"
+msgstr "Название"
+
+msgid "Language"
+msgstr "Язык"
+
+msgid "Leave the rest to us"
+msgstr "Остальное — за нами"
+
+msgid "Let's keep in touch"
+msgstr "Будем на связи"
+
+msgid "Light mode"
+msgstr "Светлая тема"
+
+msgid "Loading…"
+msgstr "Загрузка…"
+
+msgid "Log in"
+msgstr "Войти"
+
+msgid "Log out"
+msgstr "Выйти"
+
+msgid "Low stock variants"
+msgstr "Мало на складе"
+
+msgid "Made to make their day"
+msgstr "Чтобы сделать день ярче"
+
+msgid "Make it personal"
+msgstr "Добавьте личное"
+
+msgid "Mark all as read"
+msgstr "Прочитать все"
+
+msgid "Mark as read"
+msgstr "Отметить прочитанным"
+
+msgid "Maximum price"
+msgstr "Максимальная цена"
+
+msgid "Messages"
+msgstr "Сообщения"
+
+msgid "Messages refresh every 12 seconds."
+msgstr "Сообщения обновляются каждые 12 секунд."
+
+msgid "Minimum price"
+msgstr "Минимальная цена"
+
+msgid "Mixed"
+msgstr "Разноцветный"
+
+msgid "My cart"
+msgstr "Корзина"
+
+msgid "My orders"
+msgstr "Мои заказы"
+
+msgid "New conversation"
+msgstr "Новая переписка"
+
+msgid "New order received"
+msgstr "Получен новый заказ"
+
+msgid "New password confirmation:"
+msgstr "Подтверждение нового пароля:"
+
+msgid "New password:"
+msgstr "Новый пароль:"
+
+msgid "Newest first"
+msgstr "Сначала новые"
+
+msgid "Next"
+msgstr "Далее"
+
+msgid "No flowers match your filters. Try broadening your search."
+msgstr "По вашим фильтрам цветов нет. Попробуйте расширить поиск."
+
+msgid "Nothing here yet"
+msgstr "Здесь пока пусто"
+
+msgid "Notifications"
+msgstr "Уведомления"
+
+msgid "Occasion"
+msgstr "Повод"
+
+msgid "Only delivered orders can be marked as paid."
+msgstr "Оплаченными можно отметить только доставленные заказы."
+
+msgid "Open navigation"
+msgstr "Открыть меню"
+
+msgid "Order"
+msgstr "Заказ"
+
+msgid "Order notes (optional)"
+msgstr "Примечания (необязательно)"
+
+msgid "Order status updated"
+msgstr "Статус заказа обновлён"
+
+msgid "Order summary"
+msgstr "Сумма заказа"
+
+msgid "Our story"
+msgstr "О нас"
+
+msgid "Out for delivery"
+msgstr "В пути"
+
+msgid "Overview"
+msgstr "Обзор"
+
+msgid "Paid"
+msgstr "Оплачен"
+
+msgid "Password"
+msgstr "Пароль"
+
+msgid "Password changed successfully."
+msgstr "Пароль изменён."
+
+msgid "Passwords do not match."
+msgstr "Пароли не совпадают."
+
+msgid "Pay cash on delivery. No bank card details are collected."
+msgstr "Оплатите наличными при доставке. Данные карты не запрашиваются."
+
+msgid "Payment status"
+msgstr "Статус оплаты"
+
+msgid "Pending"
+msgstr "Ожидает"
+
+msgid "Phone number"
+msgstr "Телефон"
+
+msgid "Pick a size, add a note, and choose delivery."
+msgstr "Выберите размер, послание и доставку."
+
+msgid "Pink"
+msgstr "Розовый"
+
+msgid "Place order"
+msgstr "Оформить заказ"
+
+msgid "Please check all required fields and their values."
+msgstr "Проверьте обязательные поля и значения."
+
+msgid "Please confirm this action."
+msgstr "Подтвердите действие."
+
+msgid "Prepared response"
+msgstr "Готовый ответ"
+
+msgid "Prepared with care for your chosen day."
+msgstr "С заботой к выбранному вами дню."
+
+msgid "Preparing"
+msgstr "Собирается"
+
+msgid "Price"
+msgstr "Цена"
+
+msgid "Price: high to low"
+msgstr "Цена: по убыванию"
+
+msgid "Price: low to high"
+msgstr "Цена: по возрастанию"
+
+msgid "Prices include the selected bouquet. No discount codes are configured."
+msgstr "Цена указана за выбранный букет. Промокоды не настроены."
+
+msgid "Product name"
+msgstr "Название товара"
+
+msgid "Product photo"
+msgstr "Фото товара"
+
+msgid "Products"
+msgstr "Товары"
+
+msgid "Profile"
+msgstr "Профиль"
+
+msgid "Profile photo"
+msgstr "Фото профиля"
+
+msgid "Provide text translations, including English as a fallback."
+msgstr "Добавьте переводы, включая английский резервный текст."
+
+msgid "Public administrator registration is not allowed."
+msgstr "Публичная регистрация администратора запрещена."
+
+msgid "Quantity"
+msgstr "Количество"
+
+msgid "Questions, answers and rules (JSON)"
+msgstr "Вопросы, ответы и правила (JSON)"
+
+msgid "Recent orders"
+msgstr "Последние заказы"
+
+msgid "Recipient name"
+msgstr "Имя получателя"
+
+msgid "Red"
+msgstr "Красный"
+
+msgid "Remove"
+msgstr "Убрать"
+
+msgid "Remove photo"
+msgstr "Удалить фото"
+
+msgid "Reset filters"
+msgstr "Сбросить фильтры"
+
+msgid "Reset password"
+msgstr "Восстановить пароль"
+
+msgid "Reset your password"
+msgstr "Сбросьте пароль"
+
+msgid "Review your order"
+msgstr "Проверьте заказ"
+
+msgid "Romance"
+msgstr "Романтика"
+
+msgid "Rooted in nature.<br>Made for connection."
+msgstr "Вдохновлены природой.<br>Созданы для близости."
+
+msgid "Roses"
+msgstr "Розы"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Save changes"
+msgstr "Сохранить"
+
+msgid "Saved addresses"
+msgstr "Сохранённые адреса"
+
+msgid "Saved successfully"
+msgstr "Сохранено"
+
+msgid "Say it<br>with <em>flowers.</em>"
+msgstr "Скажите это<br><em>цветами.</em>"
+
+msgid "Search flowers…"
+msgstr "Поиск цветов…"
+
+msgid "Seasonal mix"
+msgstr "Сезонные цветы"
+
+msgid "Select a date from tomorrow through the next 30 days."
+msgstr "Выберите дату от завтра до 30 дней."
+
+msgid "Seller"
+msgstr "Продавец"
+
+msgid "Send message"
+msgstr "Отправить"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Show all available flowers"
+msgstr "Все доступные цветы"
+
+msgid "Skip to content"
+msgstr "??????? ? ???????????"
+
+msgid "Something went wrong. Please try again."
+msgstr "Произошла ошибка. Попробуйте ещё раз."
+
+msgid "Sort by"
+msgstr "Сортировка"
+
+msgid "Start again"
+msgstr "Начать заново"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Stock has changed or this quantity is unavailable. Please update your cart."
+msgstr "Остатки изменились или количества недостаточно. Обновите корзину."
+
+msgid "Subject"
+msgstr "Тема"
+
+msgid "Subtotal"
+msgstr "Подытог"
+
+msgid "System notification"
+msgstr "Системное уведомление"
+
+msgid "THE SEASON'S LOVELIEST"
+msgstr "ПРЕКРАСНОЕ В ЭТОМ СЕЗОНЕ"
+
+msgid "Thank you"
+msgstr "Благодарность"
+
+msgid "The Blush Edit"
+msgstr "Нежный румянец"
+
+msgid "The current password is incorrect."
+msgstr "Неверный текущий пароль."
+
+msgid "The last active administrator cannot be deleted."
+msgstr "Нельзя удалить последнего активного администратора."
+
+msgid "This account does not have administrator access."
+msgstr "У аккаунта нет прав администратора."
+
+msgid "This email is already registered."
+msgstr "Эта почта уже зарегистрирована."
+
+msgid "This link is invalid or expired."
+msgstr "Ссылка недействительна или истекла."
+
+msgid "This order status change is not allowed."
+msgstr "Этот переход статуса запрещён."
+
+msgid "This permanently deletes your account, messages, addresses and favorites. Orders retain anonymized financial records. Enter your current password to confirm."
+msgstr "Аккаунт, переписки, адреса и избранное будут удалены. Сохранятся обезличенные финансовые записи заказов. Подтвердите текущим паролем."
+
+msgid "This submission key has already been used."
+msgstr "Этот ключ отправки уже использован."
+
+msgid "Thoughtful details in every stem."
+msgstr "Внимание к каждому цветку."
+
+msgid "Thoughtfully arranged. Lovingly delivered. Discover flowers for the big days, the small joys, and every moment in between."
+msgstr "Собраны с заботой. Доставлены с любовью. Цветы для больших событий, маленьких радостей и всех мгновений между ними."
+
+msgid "To be configured by the shop owner"
+msgstr "????????????? ?????????? ????????"
+
+msgid "Toggle favorite"
+msgstr "Добавить / убрать из избранного"
+
+msgid "Too many attempts. Please try again in 15 minutes."
+msgstr "Слишком много попыток. Повторите через 15 минут."
+
+msgid "Total"
+msgstr "Итого"
+
+msgid "Total orders"
+msgstr "Всего заказов"
+
+msgid "Trim the stems, use a clean vase, replace the water daily, and keep away from direct sun and heat."
+msgstr "Подрежьте стебли, используйте чистую вазу, меняйте воду ежедневно и избегайте солнца и тепла."
+
+msgid "Try again"
+msgstr "Повторить"
+
+msgid "Tulips"
+msgstr "Тюльпаны"
+
+msgid "Unit price"
+msgstr "Цена за единицу"
+
+msgid "Unpaid"
+msgstr "Не оплачен"
+
+msgid "Unread notifications"
+msgstr "Непрочитанные уведомления"
+
+msgid "Use a saved address"
+msgstr "Выбрать сохранённый адрес"
+
+msgid "Use a valid JPEG, PNG or WebP image, up to 16 megapixels."
+msgstr "Используйте JPEG, PNG или WebP до 16 мегапикселей."
+
+msgid "Use at least 8 characters, avoid common passwords and personal details."
+msgstr "Используйте минимум 8 символов, избегайте простых паролей и личных данных."
+
+msgid "Variant"
+msgstr "Вариант"
+
+msgid "Variants & inventory"
+msgstr "Варианты и склад"
+
+msgid "View all flowers"
+msgstr "Все цветы"
+
+msgid "Welcome back"
+msgstr "С возвращением"
+
+msgid "When can I receive my flowers?"
+msgstr "Когда я получу цветы?"
+
+msgid "White"
+msgstr "Белый"
+
+msgid "Yellow"
+msgstr "Жёлтый"
+
+msgid "You"
+msgstr "Вы"
+
+msgid "You do not have access to this action."
+msgstr "Нет доступа к этому действию."
+
+msgid "Your cart is empty."
+msgstr "Корзина пуста."
+
+msgid "Your flower matches"
+msgstr "Подходящие вам цветы"
+
+msgid "Your message"
+msgstr "Ваше сообщение"
+
+msgid "Your next lovely gesture starts here. Add some flowers to your cart."
+msgstr "Начните с прекрасного жеста. Добавьте цветы в корзину."
+
+msgid "Your order has been received"
+msgstr "Ваш заказ принят"
+
+msgid "Your preferences are saved to your account."
+msgstr "Настройки сохраняются в вашем аккаунте."

@@ -1,0 +1,6 @@
+﻿{% load static %}<!doctype html>
+<html lang="uz"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#294c3b"><meta name="description" content="Flora — thoughtfully arranged flowers, personal gifts and easy delivery."><title>Flora — Flowers & feelings</title>
+{{ boot|json_script:"boot" }}
+<script>try{const b=JSON.parse(document.getElementById('boot').textContent);document.documentElement.dataset.theme=b.user?.theme||localStorage.getItem('flora-theme')||'light';document.documentElement.lang=b.user?.language||localStorage.getItem('flora-language')||'uz'}catch(e){}</script>
+<link rel="stylesheet" href="{% static 'app.css' %}"><script src="{% static 'icons.js' %}" defer></script><script src="{% static 'i18n.js' %}" defer></script><script src="{% static 'app.js' %}" defer></script></head>
+<body><a class="skip-link" href="#content">Skip to content</a><div id="app"></div><div id="overlay"></div><div id="toast" role="status" aria-live="polite"></div></body></html>

@@ -1,0 +1,776 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: en\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "A LITTLE NATURE. A LOT OF FEELING."
+msgstr "A LITTLE NATURE. A LOT OF FEELING."
+
+msgid "A few little details. A bouquet that feels just right."
+msgstr "A few little details. A bouquet that feels just right."
+
+msgid "A few things you might wonder"
+msgstr "A few things you might wonder"
+
+msgid "A guided helper, not AI"
+msgstr "A guided helper, not AI"
+
+msgid "A hand-arranged bouquet of fresh flowers"
+msgstr "A hand-arranged bouquet of fresh flowers"
+
+msgid "A little closer to you, in your language."
+msgstr "A little closer to you, in your language."
+
+msgid "A little overview of your floral world."
+msgstr "A little overview of your floral world."
+
+msgid "A note from the heart"
+msgstr "A note from the heart"
+
+msgid "Active"
+msgstr "Active"
+
+msgid "Add a personal gift message, on us."
+msgstr "Add a personal gift message, on us."
+
+msgid "Add address"
+msgstr "Add address"
+
+msgid "Add to cart"
+msgstr "Add to cart"
+
+msgid "Added to your cart"
+msgstr "Added to your cart"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Administrator accounts are created by the shop owner."
+msgstr "Administrator accounts are created by the shop owner."
+
+msgid "All"
+msgstr "All"
+
+msgid "Appearance"
+msgstr "Appearance"
+
+msgid "Apply filters"
+msgstr "Apply filters"
+
+msgid "Archive"
+msgstr "Archive"
+
+msgid "Archive this item? It will no longer be available to customers. Order history is preserved."
+msgstr "Archive this item? It will no longer be available to customers. Order history is preserved."
+
+msgid "Arranged with heart"
+msgstr "Arranged with heart"
+
+msgid "Back"
+msgstr "Back"
+
+msgid "Beautiful moments begin here."
+msgstr "Beautiful moments begin here."
+
+msgid "Birthday"
+msgstr "Birthday"
+
+msgid "Bouquet size"
+msgstr "Bouquet size"
+
+msgid "Browse collections or let Flower Finder guide you."
+msgstr "Browse collections or let Flower Finder guide you."
+
+msgid "Browse flowers"
+msgstr "Browse flowers"
+
+msgid "Business contact details must be configured by the shop owner."
+msgstr "Business contact details must be configured by the shop owner."
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Cancelled"
+msgstr "Cancelled"
+
+msgid "Cash on delivery"
+msgstr "Cash on delivery"
+
+msgid "Change email"
+msgstr "Change email"
+
+msgid "Change password"
+msgstr "Change password"
+
+msgid "Check the assistant JSON structure and translations."
+msgstr "Check the assistant JSON structure and translations."
+
+msgid "Check the filter values."
+msgstr "Check the filter values."
+
+msgid "Check your new email for a confirmation link. Local demo: see the server email log."
+msgstr "Check your new email for a confirmation link. Local demo: see the server email log."
+
+msgid "Checkout"
+msgstr "Checkout"
+
+msgid "Choose a date and a delivery window."
+msgstr "Choose a date and a delivery window."
+
+msgid "Choose tomorrow through the next 30 days, with a morning, midday, or afternoon delivery window. Delivery coverage is confirmed by the seller; contact them before ordering outside your area."
+msgstr "Choose tomorrow through the next 30 days, with a morning, midday, or afternoon delivery window. Delivery coverage is confirmed by the seller; contact them before ordering outside your area."
+
+msgid "Choose your language"
+msgstr "Choose your language"
+
+msgid "Close"
+msgstr "Close"
+
+msgid "Close navigation"
+msgstr "Close navigation"
+
+msgid "Collected revenue"
+msgstr "Collected revenue"
+
+msgid "Collection"
+msgstr "Collection"
+
+msgid "Collections"
+msgstr "Collections"
+
+msgid "Color"
+msgstr "Color"
+
+msgid "Confirm"
+msgstr "Confirm"
+
+msgid "Confirm cash received"
+msgstr "Confirm cash received"
+
+msgid "Confirm password"
+msgstr "Confirm password"
+
+msgid "Confirm your current password to change your email and login address."
+msgstr "Confirm your current password to change your email and login address."
+
+msgid "Confirmed"
+msgstr "Confirmed"
+
+msgid "Connection failed. Your changes were not saved. Please retry."
+msgstr "Connection failed. Your changes were not saved. Please retry."
+
+msgid "Contact seller"
+msgstr "Contact seller"
+
+msgid "Continue"
+msgstr "Continue"
+
+msgid "Conversations"
+msgstr "Conversations"
+
+msgid "Create"
+msgstr "Create"
+
+msgid "Create an account"
+msgstr "Create an account"
+
+msgid "Current password"
+msgstr "Current password"
+
+msgid "Currently unavailable"
+msgstr "Currently unavailable"
+
+msgid "Customer"
+msgstr "Customer"
+
+msgid "Customers"
+msgstr "Customers"
+
+msgid "Dark mode"
+msgstr "Dark mode"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Default address"
+msgstr "Default address"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "Delete account"
+msgstr "Delete account"
+
+msgid "Delivered"
+msgstr "Delivered"
+
+msgid "Delivered and paid orders only"
+msgstr "Delivered and paid orders only"
+
+msgid "Delivery address"
+msgstr "Delivery address"
+
+msgid "Delivery date"
+msgstr "Delivery date"
+
+msgid "Delivery fee"
+msgstr "Delivery fee"
+
+msgid "Delivery window"
+msgstr "Delivery window"
+
+msgid "Delivery, made simple"
+msgstr "Delivery, made simple"
+
+msgid "Demonstration shop · sample catalog"
+msgstr "Demonstration shop · sample catalog"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Details"
+msgstr "Details"
+
+msgid "Each step uses occasion, color, flower_type or max_price. Include en, uz and ru translations for every label and response."
+msgstr "Each step uses occasion, color, flower_type or max_price. Include en, uz and ru translations for every label and response."
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Email address"
+msgstr "Email address"
+
+msgid "Email or password is incorrect."
+msgstr "Email or password is incorrect."
+
+msgid "Email updated successfully."
+msgstr "Email updated successfully."
+
+msgid "Enter a new address"
+msgstr "Enter a new address"
+
+msgid "Enter a valid email address."
+msgstr "Enter a valid email address."
+
+msgid "Enter a valid phone number."
+msgstr "Enter a valid phone number."
+
+msgid "Enter your full name."
+msgstr "Enter your full name."
+
+msgid "Explore the collection"
+msgstr "Explore the collection"
+
+msgid "Favorites"
+msgstr "Favorites"
+
+msgid "Filters"
+msgstr "Filters"
+
+msgid "Find your flowers"
+msgstr "Find your flowers"
+
+msgid "Find your perfect bouquet"
+msgstr "Find your perfect bouquet"
+
+msgid "Flora is a demonstration floral studio built around a simple idea: meaningful gestures need no occasion. Our sample collections pair soft colors, natural textures, and thoughtful details. Make them your own."
+msgstr "Flora is a demonstration floral studio built around a simple idea: meaningful gestures need no occasion. Our sample collections pair soft colors, natural textures, and thoughtful details. Make them your own."
+
+msgid "Flower Finder"
+msgstr "Flower Finder"
+
+msgid "Flower care"
+msgstr "Flower care"
+
+msgid "Flower shop"
+msgstr "Flower shop"
+
+msgid "Flower type"
+msgstr "Flower type"
+
+msgid "Flowers for the moments that matter."
+msgstr "Flowers for the moments that matter."
+
+msgid "Follow your order and chat with the seller."
+msgstr "Follow your order and chat with the seller."
+
+msgid "Forgot your password?"
+msgstr "Forgot your password?"
+
+msgid "Fresh, always"
+msgstr "Fresh, always"
+
+msgid "From"
+msgstr "From"
+
+msgid "From our studio to their smile"
+msgstr "From our studio to their smile"
+
+msgid "Full name"
+msgstr "Full name"
+
+msgid "Gift message (optional)"
+msgstr "Gift message (optional)"
+
+msgid "Guided assistant"
+msgstr "Guided assistant"
+
+msgid "Hello"
+msgstr "Hello"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "How do I keep flowers fresh?"
+msgstr "How do I keep flowers fresh?"
+
+msgid "How do I pay?"
+msgstr "How do I pay?"
+
+msgid "If this account exists, a reset link has been sent. Local demo: check the server email log."
+msgstr "If this account exists, a reset link has been sent. Local demo: check the server email log."
+
+msgid "If you did not request this, ignore this email."
+msgstr "If you did not request this, ignore this email."
+
+msgid "Images must be no larger than 5 MB."
+msgstr "Images must be no larger than 5 MB."
+
+msgid "In progress"
+msgstr "In progress"
+
+msgid "In stock"
+msgstr "In stock"
+
+msgid "In stock only"
+msgstr "In stock only"
+
+msgid "Just because"
+msgstr "Just because"
+
+msgid "Label"
+msgstr "Label"
+
+msgid "Language"
+msgstr "Language"
+
+msgid "Leave the rest to us"
+msgstr "Leave the rest to us"
+
+msgid "Let's keep in touch"
+msgstr "Let's keep in touch"
+
+msgid "Light mode"
+msgstr "Light mode"
+
+msgid "Loading…"
+msgstr "Loading…"
+
+msgid "Log in"
+msgstr "Log in"
+
+msgid "Log out"
+msgstr "Log out"
+
+msgid "Low stock variants"
+msgstr "Low stock variants"
+
+msgid "Made to make their day"
+msgstr "Made to make their day"
+
+msgid "Make it personal"
+msgstr "Make it personal"
+
+msgid "Mark all as read"
+msgstr "Mark all as read"
+
+msgid "Mark as read"
+msgstr "Mark as read"
+
+msgid "Maximum price"
+msgstr "Maximum price"
+
+msgid "Messages"
+msgstr "Messages"
+
+msgid "Messages refresh every 12 seconds."
+msgstr "Messages refresh every 12 seconds."
+
+msgid "Minimum price"
+msgstr "Minimum price"
+
+msgid "Mixed"
+msgstr "Mixed"
+
+msgid "My cart"
+msgstr "My cart"
+
+msgid "My orders"
+msgstr "My orders"
+
+msgid "New conversation"
+msgstr "New conversation"
+
+msgid "New order received"
+msgstr "New order received"
+
+msgid "New password confirmation:"
+msgstr "New password confirmation:"
+
+msgid "New password:"
+msgstr "New password:"
+
+msgid "Newest first"
+msgstr "Newest first"
+
+msgid "Next"
+msgstr "Next"
+
+msgid "No flowers match your filters. Try broadening your search."
+msgstr "No flowers match your filters. Try broadening your search."
+
+msgid "Nothing here yet"
+msgstr "Nothing here yet"
+
+msgid "Notifications"
+msgstr "Notifications"
+
+msgid "Occasion"
+msgstr "Occasion"
+
+msgid "Only delivered orders can be marked as paid."
+msgstr "Only delivered orders can be marked as paid."
+
+msgid "Open navigation"
+msgstr "Open navigation"
+
+msgid "Order"
+msgstr "Order"
+
+msgid "Order notes (optional)"
+msgstr "Order notes (optional)"
+
+msgid "Order status updated"
+msgstr "Order status updated"
+
+msgid "Order summary"
+msgstr "Order summary"
+
+msgid "Our story"
+msgstr "Our story"
+
+msgid "Out for delivery"
+msgstr "Out for delivery"
+
+msgid "Overview"
+msgstr "Overview"
+
+msgid "Paid"
+msgstr "Paid"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Password changed successfully."
+msgstr "Password changed successfully."
+
+msgid "Passwords do not match."
+msgstr "Passwords do not match."
+
+msgid "Pay cash on delivery. No bank card details are collected."
+msgstr "Pay cash on delivery. No bank card details are collected."
+
+msgid "Payment status"
+msgstr "Payment status"
+
+msgid "Pending"
+msgstr "Pending"
+
+msgid "Phone number"
+msgstr "Phone number"
+
+msgid "Pick a size, add a note, and choose delivery."
+msgstr "Pick a size, add a note, and choose delivery."
+
+msgid "Pink"
+msgstr "Pink"
+
+msgid "Place order"
+msgstr "Place order"
+
+msgid "Please check all required fields and their values."
+msgstr "Please check all required fields and their values."
+
+msgid "Please confirm this action."
+msgstr "Please confirm this action."
+
+msgid "Prepared response"
+msgstr "Prepared response"
+
+msgid "Prepared with care for your chosen day."
+msgstr "Prepared with care for your chosen day."
+
+msgid "Preparing"
+msgstr "Preparing"
+
+msgid "Price"
+msgstr "Price"
+
+msgid "Price: high to low"
+msgstr "Price: high to low"
+
+msgid "Price: low to high"
+msgstr "Price: low to high"
+
+msgid "Prices include the selected bouquet. No discount codes are configured."
+msgstr "Prices include the selected bouquet. No discount codes are configured."
+
+msgid "Product name"
+msgstr "Product name"
+
+msgid "Product photo"
+msgstr "Product photo"
+
+msgid "Products"
+msgstr "Products"
+
+msgid "Profile"
+msgstr "Profile"
+
+msgid "Profile photo"
+msgstr "Profile photo"
+
+msgid "Provide text translations, including English as a fallback."
+msgstr "Provide text translations, including English as a fallback."
+
+msgid "Public administrator registration is not allowed."
+msgstr "Public administrator registration is not allowed."
+
+msgid "Quantity"
+msgstr "Quantity"
+
+msgid "Questions, answers and rules (JSON)"
+msgstr "Questions, answers and rules (JSON)"
+
+msgid "Recent orders"
+msgstr "Recent orders"
+
+msgid "Recipient name"
+msgstr "Recipient name"
+
+msgid "Red"
+msgstr "Red"
+
+msgid "Remove"
+msgstr "Remove"
+
+msgid "Remove photo"
+msgstr "Remove photo"
+
+msgid "Reset filters"
+msgstr "Reset filters"
+
+msgid "Reset password"
+msgstr "Reset password"
+
+msgid "Reset your password"
+msgstr "Reset your password"
+
+msgid "Review your order"
+msgstr "Review your order"
+
+msgid "Romance"
+msgstr "Romance"
+
+msgid "Rooted in nature.<br>Made for connection."
+msgstr "Rooted in nature.<br>Made for connection."
+
+msgid "Roses"
+msgstr "Roses"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Save changes"
+msgstr "Save changes"
+
+msgid "Saved addresses"
+msgstr "Saved addresses"
+
+msgid "Saved successfully"
+msgstr "Saved successfully"
+
+msgid "Say it<br>with <em>flowers.</em>"
+msgstr "Say it<br>with <em>flowers.</em>"
+
+msgid "Search flowers…"
+msgstr "Search flowers…"
+
+msgid "Seasonal mix"
+msgstr "Seasonal mix"
+
+msgid "Select a date from tomorrow through the next 30 days."
+msgstr "Select a date from tomorrow through the next 30 days."
+
+msgid "Seller"
+msgstr "Seller"
+
+msgid "Send message"
+msgstr "Send message"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Show all available flowers"
+msgstr "Show all available flowers"
+
+msgid "Skip to content"
+msgstr "Skip to content"
+
+msgid "Something went wrong. Please try again."
+msgstr "Something went wrong. Please try again."
+
+msgid "Sort by"
+msgstr "Sort by"
+
+msgid "Start again"
+msgstr "Start again"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Stock has changed or this quantity is unavailable. Please update your cart."
+msgstr "Stock has changed or this quantity is unavailable. Please update your cart."
+
+msgid "Subject"
+msgstr "Subject"
+
+msgid "Subtotal"
+msgstr "Subtotal"
+
+msgid "System notification"
+msgstr "System notification"
+
+msgid "THE SEASON'S LOVELIEST"
+msgstr "THE SEASON'S LOVELIEST"
+
+msgid "Thank you"
+msgstr "Thank you"
+
+msgid "The Blush Edit"
+msgstr "The Blush Edit"
+
+msgid "The current password is incorrect."
+msgstr "The current password is incorrect."
+
+msgid "The last active administrator cannot be deleted."
+msgstr "The last active administrator cannot be deleted."
+
+msgid "This account does not have administrator access."
+msgstr "This account does not have administrator access."
+
+msgid "This email is already registered."
+msgstr "This email is already registered."
+
+msgid "This link is invalid or expired."
+msgstr "This link is invalid or expired."
+
+msgid "This order status change is not allowed."
+msgstr "This order status change is not allowed."
+
+msgid "This permanently deletes your account, messages, addresses and favorites. Orders retain anonymized financial records. Enter your current password to confirm."
+msgstr "This permanently deletes your account, messages, addresses and favorites. Orders retain anonymized financial records. Enter your current password to confirm."
+
+msgid "This submission key has already been used."
+msgstr "This submission key has already been used."
+
+msgid "Thoughtful details in every stem."
+msgstr "Thoughtful details in every stem."
+
+msgid "Thoughtfully arranged. Lovingly delivered. Discover flowers for the big days, the small joys, and every moment in between."
+msgstr "Thoughtfully arranged. Lovingly delivered. Discover flowers for the big days, the small joys, and every moment in between."
+
+msgid "To be configured by the shop owner"
+msgstr "To be configured by the shop owner"
+
+msgid "Toggle favorite"
+msgstr "Toggle favorite"
+
+msgid "Too many attempts. Please try again in 15 minutes."
+msgstr "Too many attempts. Please try again in 15 minutes."
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Total orders"
+msgstr "Total orders"
+
+msgid "Trim the stems, use a clean vase, replace the water daily, and keep away from direct sun and heat."
+msgstr "Trim the stems, use a clean vase, replace the water daily, and keep away from direct sun and heat."
+
+msgid "Try again"
+msgstr "Try again"
+
+msgid "Tulips"
+msgstr "Tulips"
+
+msgid "Unit price"
+msgstr "Unit price"
+
+msgid "Unpaid"
+msgstr "Unpaid"
+
+msgid "Unread notifications"
+msgstr "Unread notifications"
+
+msgid "Use a saved address"
+msgstr "Use a saved address"
+
+msgid "Use a valid JPEG, PNG or WebP image, up to 16 megapixels."
+msgstr "Use a valid JPEG, PNG or WebP image, up to 16 megapixels."
+
+msgid "Use at least 8 characters, avoid common passwords and personal details."
+msgstr "Use at least 8 characters, avoid common passwords and personal details."
+
+msgid "Variant"
+msgstr "Variant"
+
+msgid "Variants & inventory"
+msgstr "Variants & inventory"
+
+msgid "View all flowers"
+msgstr "View all flowers"
+
+msgid "Welcome back"
+msgstr "Welcome back"
+
+msgid "When can I receive my flowers?"
+msgstr "When can I receive my flowers?"
+
+msgid "White"
+msgstr "White"
+
+msgid "Yellow"
+msgstr "Yellow"
+
+msgid "You"
+msgstr "You"
+
+msgid "You do not have access to this action."
+msgstr "You do not have access to this action."
+
+msgid "Your cart is empty."
+msgstr "Your cart is empty."
+
+msgid "Your flower matches"
+msgstr "Your flower matches"
+
+msgid "Your message"
+msgstr "Your message"
+
+msgid "Your next lovely gesture starts here. Add some flowers to your cart."
+msgstr "Your next lovely gesture starts here. Add some flowers to your cart."
+
+msgid "Your order has been received"
+msgstr "Your order has been received"
+
+msgid "Your preferences are saved to your account."
+msgstr "Your preferences are saved to your account."

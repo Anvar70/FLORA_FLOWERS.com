@@ -1,0 +1,641 @@
+[
+{
+  "model": "catalog.category",
+  "pk": 1,
+  "fields": {
+    "name": {
+      "en": "Signature bouquets",
+      "uz": "Maxsus guldastalar",
+      "ru": "Авторские букеты"
+    },
+    "description": {
+      "en": "Thoughtful arrangements for meaningful moments.",
+      "uz": "Qadrli lahzalar uchun nafis guldastalar.",
+      "ru": "Букеты для важных мгновений."
+    },
+    "active": true
+  }
+},
+{
+  "model": "catalog.category",
+  "pk": 2,
+  "fields": {
+    "name": {
+      "en": "Seasonal stems",
+      "uz": "Mavsumiy gullar",
+      "ru": "Сезонные цветы"
+    },
+    "description": {
+      "en": "A little of the season, just for you.",
+      "uz": "Mavsum go‘zalligi siz uchun.",
+      "ru": "Красота сезона для вас."
+    },
+    "active": true
+  }
+},
+{
+  "model": "catalog.product",
+  "pk": 1,
+  "fields": {
+    "category": 2,
+    "name": {
+      "en": "Golden hour",
+      "uz": "Oltin lahza",
+      "ru": "Золотой час"
+    },
+    "description": {
+      "en": "A considered composition of seasonal flowers and natural greenery. Sample catalog arrangement; the seller confirms exact seasonal stems.",
+      "uz": "Mavsumiy gullar va tabiiy ko‘katlardan nafis kompozitsiya. Namunaviy katalog; aniq gullarni sotuvchi tasdiqlaydi.",
+      "ru": "Продуманная композиция сезонных цветов и зелени. Демонстрационный букет; точный состав подтверждает продавец."
+    },
+    "care": {
+      "en": "Trim stems at an angle. Refresh water daily. Keep cool and away from direct sunlight.",
+      "uz": "Poyani qiya kesing. Suvni har kuni almashtiring. Salqin, quyosh tushmaydigan joyda saqlang.",
+      "ru": "Подрежьте стебли под углом. Меняйте воду ежедневно. Держите в прохладе, вдали от солнца."
+    },
+    "image": "",
+    "demo_asset": "images/garden.jpg",
+    "color": "yellow",
+    "occasion": "thanks",
+    "flower_type": "seasonal_type",
+    "active": true,
+    "created": "2026-09-14T09:51:19.817Z"
+  }
+},
+{
+  "model": "catalog.product",
+  "pk": 2,
+  "fields": {
+    "category": 2,
+    "name": {
+      "en": "Wild poetry",
+      "uz": "Tabiat she’ri",
+      "ru": "Поэзия природы"
+    },
+    "description": {
+      "en": "A considered composition of seasonal flowers and natural greenery. Sample catalog arrangement; the seller confirms exact seasonal stems.",
+      "uz": "Mavsumiy gullar va tabiiy ko‘katlardan nafis kompozitsiya. Namunaviy katalog; aniq gullarni sotuvchi tasdiqlaydi.",
+      "ru": "Продуманная композиция сезонных цветов и зелени. Демонстрационный букет; точный состав подтверждает продавец."
+    },
+    "care": {
+      "en": "Trim stems at an angle. Refresh water daily. Keep cool and away from direct sunlight.",
+      "uz": "Poyani qiya kesing. Suvni har kuni almashtiring. Salqin, quyosh tushmaydigan joyda saqlang.",
+      "ru": "Подрежьте стебли под углом. Меняйте воду ежедневно. Держите в прохладе, вдали от солнца."
+    },
+    "image": "",
+    "demo_asset": "images/white.jpg",
+    "color": "mixed",
+    "occasion": "birthday",
+    "flower_type": "seasonal_type",
+    "active": true,
+    "created": "2026-09-14T09:51:19.818Z"
+  }
+},
+{
+  "model": "catalog.product",
+  "pk": 3,
+  "fields": {
+    "category": 2,
+    "name": {
+      "en": "Pink tulip",
+      "uz": "Pushti lola",
+      "ru": "Розовый тюльпан"
+    },
+    "description": {
+      "en": "A considered composition of seasonal flowers and natural greenery. Sample catalog arrangement; the seller confirms exact seasonal stems.",
+      "uz": "Mavsumiy gullar va tabiiy ko‘katlardan nafis kompozitsiya. Namunaviy katalog; aniq gullarni sotuvchi tasdiqlaydi.",
+      "ru": "Продуманная композиция сезонных цветов и зелени. Демонстрационный букет; точный состав подтверждает продавец."
+    },
+    "care": {
+      "en": "Trim stems at an angle. Refresh water daily. Keep cool and away from direct sunlight.",
+      "uz": "Poyani qiya kesing. Suvni har kuni almashtiring. Salqin, quyosh tushmaydigan joyda saqlang.",
+      "ru": "Подрежьте стебли под углом. Меняйте воду ежедневно. Держите в прохладе, вдали от солнца."
+    },
+    "image": "",
+    "demo_asset": "images/tulips.jpg",
+    "color": "pink",
+    "occasion": "everyday",
+    "flower_type": "tulips",
+    "active": true,
+    "created": "2026-09-14T09:51:19.819Z"
+  }
+},
+{
+  "model": "catalog.product",
+  "pk": 4,
+  "fields": {
+    "category": 1,
+    "name": {
+      "en": "Peach & promise",
+      "uz": "Mayin shaftoli",
+      "ru": "Персиковая нежность"
+    },
+    "description": {
+      "en": "A considered composition of seasonal flowers and natural greenery. Sample catalog arrangement; the seller confirms exact seasonal stems.",
+      "uz": "Mavsumiy gullar va tabiiy ko‘katlardan nafis kompozitsiya. Namunaviy katalog; aniq gullarni sotuvchi tasdiqlaydi.",
+      "ru": "Продуманная композиция сезонных цветов и зелени. Демонстрационный букет; точный состав подтверждает продавец."
+    },
+    "care": {
+      "en": "Trim stems at an angle. Refresh water daily. Keep cool and away from direct sunlight.",
+      "uz": "Poyani qiya kesing. Suvni har kuni almashtiring. Salqin, quyosh tushmaydigan joyda saqlang.",
+      "ru": "Подрежьте стебли под углом. Меняйте воду ежедневно. Держите в прохладе, вдали от солнца."
+    },
+    "image": "",
+    "demo_asset": "images/roses.jpg",
+    "color": "pink",
+    "occasion": "romance",
+    "flower_type": "roses",
+    "active": true,
+    "created": "2026-09-14T09:51:19.820Z"
+  }
+},
+{
+  "model": "catalog.product",
+  "pk": 5,
+  "fields": {
+    "category": 1,
+    "name": {
+      "en": "The Blush Edit",
+      "uz": "Nafis pushti",
+      "ru": "Нежный румянец"
+    },
+    "description": {
+      "en": "A considered composition of seasonal flowers and natural greenery. Sample catalog arrangement; the seller confirms exact seasonal stems.",
+      "uz": "Mavsumiy gullar va tabiiy ko‘katlardan nafis kompozitsiya. Namunaviy katalog; aniq gullarni sotuvchi tasdiqlaydi.",
+      "ru": "Продуманная композиция сезонных цветов и зелени. Демонстрационный букет; точный состав подтверждает продавец."
+    },
+    "care": {
+      "en": "Trim stems at an angle. Refresh water daily. Keep cool and away from direct sunlight.",
+      "uz": "Poyani qiya kesing. Suvni har kuni almashtiring. Salqin, quyosh tushmaydigan joyda saqlang.",
+      "ru": "Подрежьте стебли под углом. Меняйте воду ежедневно. Держите в прохладе, вдали от солнца."
+    },
+    "image": "",
+    "demo_asset": "images/hero.jpg",
+    "color": "pink",
+    "occasion": "birthday",
+    "flower_type": "roses",
+    "active": true,
+    "created": "2026-09-14T09:51:19.821Z"
+  }
+},
+{
+  "model": "catalog.variant",
+  "pk": 1,
+  "fields": {
+    "product": 1,
+    "name": {
+      "en": "Classic",
+      "uz": "Klassik",
+      "ru": "Классический"
+    },
+    "price": "180000.00",
+    "stock": 20,
+    "active": true
+  }
+},
+{
+  "model": "catalog.variant",
+  "pk": 2,
+  "fields": {
+    "product": 1,
+    "name": {
+      "en": "Abundant",
+      "uz": "Katta",
+      "ru": "Пышный"
+    },
+    "price": "270000.00",
+    "stock": 20,
+    "active": true
+  }
+},
+{
+  "model": "catalog.variant",
+  "pk": 3,
+  "fields": {
+    "product": 2,
+    "name": {
+      "en": "Classic",
+      "uz": "Klassik",
+      "ru": "Классический"
+    },
+    "price": "290000.00",
+    "stock": 20,
+    "active": true
+  }
+},
+{
+  "model": "catalog.variant",
+  "pk": 4,
+  "fields": {
+    "product": 2,
+    "name": {
+      "en": "Abundant",
+      "uz": "Katta",
+      "ru": "Пышный"
+    },
+    "price": "435000.00",
+    "stock": 20,
+    "active": true
+  }
+},
+{
+  "model": "catalog.variant",
+  "pk": 5,
+  "fields": {
+    "product": 3,
+    "name": {
+      "en": "Classic",
+      "uz": "Klassik",
+      "ru": "Классический"
+    },
+    "price": "95000.00",
+    "stock": 20,
+    "active": true
+  }
+},
+{
+  "model": "catalog.variant",
+  "pk": 6,
+  "fields": {
+    "product": 3,
+    "name": {
+      "en": "Abundant",
+      "uz": "Katta",
+      "ru": "Пышный"
+    },
+    "price": "142500.00",
+    "stock": 20,
+    "active": true
+  }
+},
+{
+  "model": "catalog.variant",
+  "pk": 7,
+  "fields": {
+    "product": 4,
+    "name": {
+      "en": "Classic",
+      "uz": "Klassik",
+      "ru": "Классический"
+    },
+    "price": "320000.00",
+    "stock": 20,
+    "active": true
+  }
+},
+{
+  "model": "catalog.variant",
+  "pk": 8,
+  "fields": {
+    "product": 4,
+    "name": {
+      "en": "Abundant",
+      "uz": "Katta",
+      "ru": "Пышный"
+    },
+    "price": "480000.00",
+    "stock": 20,
+    "active": true
+  }
+},
+{
+  "model": "catalog.variant",
+  "pk": 9,
+  "fields": {
+    "product": 5,
+    "name": {
+      "en": "Classic",
+      "uz": "Klassik",
+      "ru": "Классический"
+    },
+    "price": "280000.00",
+    "stock": 20,
+    "active": true
+  }
+},
+{
+  "model": "catalog.variant",
+  "pk": 10,
+  "fields": {
+    "product": 5,
+    "name": {
+      "en": "Abundant",
+      "uz": "Katta",
+      "ru": "Пышный"
+    },
+    "price": "420000.00",
+    "stock": 20,
+    "active": true
+  }
+},
+{
+  "model": "core.guideconfig",
+  "pk": 1,
+  "fields": {
+    "data": {
+      "steps": [
+        {
+          "field": "occasion",
+          "question": {
+            "en": "What is the occasion?",
+            "uz": "Qanday sabab uchun?",
+            "ru": "Какой повод?"
+          },
+          "choices": [
+            {
+              "value": "birthday",
+              "label": {
+                "en": "Birthday",
+                "uz": "Tug‘ilgan kun",
+                "ru": "День рождения"
+              },
+              "response": {
+                "en": "Lovely choice. Let’s narrow it down.",
+                "uz": "Ajoyib tanlov. Endi aniqlashtiramiz.",
+                "ru": "Прекрасный выбор. Уточним детали."
+              }
+            },
+            {
+              "value": "romance",
+              "label": {
+                "en": "Romance",
+                "uz": "Sevgi",
+                "ru": "Романтика"
+              },
+              "response": {
+                "en": "Lovely choice. Let’s narrow it down.",
+                "uz": "Ajoyib tanlov. Endi aniqlashtiramiz.",
+                "ru": "Прекрасный выбор. Уточним детали."
+              }
+            },
+            {
+              "value": "thanks",
+              "label": {
+                "en": "Thank you",
+                "uz": "Minnatdorchilik",
+                "ru": "Благодарность"
+              },
+              "response": {
+                "en": "Lovely choice. Let’s narrow it down.",
+                "uz": "Ajoyib tanlov. Endi aniqlashtiramiz.",
+                "ru": "Прекрасный выбор. Уточним детали."
+              }
+            },
+            {
+              "value": "everyday",
+              "label": {
+                "en": "Just because",
+                "uz": "Shunchaki",
+                "ru": "Без повода"
+              },
+              "response": {
+                "en": "Lovely choice. Let’s narrow it down.",
+                "uz": "Ajoyib tanlov. Endi aniqlashtiramiz.",
+                "ru": "Прекрасный выбор. Уточним детали."
+              }
+            },
+            {
+              "value": "",
+              "label": {
+                "en": "All",
+                "uz": "Barchasi",
+                "ru": "Все"
+              },
+              "response": {
+                "en": "Lovely choice. Let’s narrow it down.",
+                "uz": "Ajoyib tanlov. Endi aniqlashtiramiz.",
+                "ru": "Прекрасный выбор. Уточним детали."
+              }
+            }
+          ]
+        },
+        {
+          "field": "max_price",
+          "question": {
+            "en": "What budget feels right?",
+            "uz": "Qancha mablag‘ ajratmoqchisiz?",
+            "ru": "Какой бюджет вам подходит?"
+          },
+          "choices": [
+            {
+              "value": "200000",
+              "label": {
+                "en": "≤ 200 000 UZS",
+                "uz": "≤ 200 000 UZS",
+                "ru": "≤ 200 000 UZS"
+              },
+              "response": {
+                "en": "We will stay within your budget.",
+                "uz": "Belgilangan mablag‘ doirasida tanlaymiz.",
+                "ru": "Подберём в рамках бюджета."
+              }
+            },
+            {
+              "value": "350000",
+              "label": {
+                "en": "≤ 350 000 UZS",
+                "uz": "≤ 350 000 UZS",
+                "ru": "≤ 350 000 UZS"
+              },
+              "response": {
+                "en": "We will stay within your budget.",
+                "uz": "Belgilangan mablag‘ doirasida tanlaymiz.",
+                "ru": "Подберём в рамках бюджета."
+              }
+            },
+            {
+              "value": "",
+              "label": {
+                "en": "∞",
+                "uz": "∞",
+                "ru": "∞"
+              },
+              "response": {
+                "en": "We will stay within your budget.",
+                "uz": "Belgilangan mablag‘ doirasida tanlaymiz.",
+                "ru": "Подберём в рамках бюджета."
+              }
+            }
+          ]
+        },
+        {
+          "field": "color",
+          "question": {
+            "en": "Any favorite colors?",
+            "uz": "Qaysi ranglarni yoqtirasiz?",
+            "ru": "Какие цвета нравятся?"
+          },
+          "choices": [
+            {
+              "value": "pink",
+              "label": {
+                "en": "Pink",
+                "uz": "Pushti",
+                "ru": "Розовый"
+              },
+              "response": {
+                "en": "Lovely choice. Let’s narrow it down.",
+                "uz": "Ajoyib tanlov. Endi aniqlashtiramiz.",
+                "ru": "Прекрасный выбор. Уточним детали."
+              }
+            },
+            {
+              "value": "white",
+              "label": {
+                "en": "White",
+                "uz": "Oq",
+                "ru": "Белый"
+              },
+              "response": {
+                "en": "Lovely choice. Let’s narrow it down.",
+                "uz": "Ajoyib tanlov. Endi aniqlashtiramiz.",
+                "ru": "Прекрасный выбор. Уточним детали."
+              }
+            },
+            {
+              "value": "yellow",
+              "label": {
+                "en": "Yellow",
+                "uz": "Sariq",
+                "ru": "Жёлтый"
+              },
+              "response": {
+                "en": "Lovely choice. Let’s narrow it down.",
+                "uz": "Ajoyib tanlov. Endi aniqlashtiramiz.",
+                "ru": "Прекрасный выбор. Уточним детали."
+              }
+            },
+            {
+              "value": "mixed",
+              "label": {
+                "en": "Mixed",
+                "uz": "Aralash",
+                "ru": "Разноцветный"
+              },
+              "response": {
+                "en": "Lovely choice. Let’s narrow it down.",
+                "uz": "Ajoyib tanlov. Endi aniqlashtiramiz.",
+                "ru": "Прекрасный выбор. Уточним детали."
+              }
+            },
+            {
+              "value": "",
+              "label": {
+                "en": "All",
+                "uz": "Barchasi",
+                "ru": "Все"
+              },
+              "response": {
+                "en": "Lovely choice. Let’s narrow it down.",
+                "uz": "Ajoyib tanlov. Endi aniqlashtiramiz.",
+                "ru": "Прекрасный выбор. Уточним детали."
+              }
+            }
+          ]
+        },
+        {
+          "field": "flower_type",
+          "question": {
+            "en": "And your favorite flower?",
+            "uz": "Yoqtirgan gulingiz qaysi?",
+            "ru": "Любимые цветы?"
+          },
+          "choices": [
+            {
+              "value": "roses",
+              "label": {
+                "en": "Roses",
+                "uz": "Atirgullar",
+                "ru": "Розы"
+              },
+              "response": {
+                "en": "Lovely choice. Let’s narrow it down.",
+                "uz": "Ajoyib tanlov. Endi aniqlashtiramiz.",
+                "ru": "Прекрасный выбор. Уточним детали."
+              }
+            },
+            {
+              "value": "tulips",
+              "label": {
+                "en": "Tulips",
+                "uz": "Lolalar",
+                "ru": "Тюльпаны"
+              },
+              "response": {
+                "en": "Lovely choice. Let’s narrow it down.",
+                "uz": "Ajoyib tanlov. Endi aniqlashtiramiz.",
+                "ru": "Прекрасный выбор. Уточним детали."
+              }
+            },
+            {
+              "value": "seasonal_type",
+              "label": {
+                "en": "Seasonal mix",
+                "uz": "Mavsumiy gullar",
+                "ru": "Сезонные цветы"
+              },
+              "response": {
+                "en": "Lovely choice. Let’s narrow it down.",
+                "uz": "Ajoyib tanlov. Endi aniqlashtiramiz.",
+                "ru": "Прекрасный выбор. Уточним детали."
+              }
+            },
+            {
+              "value": "",
+              "label": {
+                "en": "All",
+                "uz": "Barchasi",
+                "ru": "Все"
+              },
+              "response": {
+                "en": "Lovely choice. Let’s narrow it down.",
+                "uz": "Ajoyib tanlov. Endi aniqlashtiramiz.",
+                "ru": "Прекрасный выбор. Уточним детали."
+              }
+            }
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": {
+            "en": "When can I receive my flowers?",
+            "uz": "Gullarni qachon olaman?",
+            "ru": "Когда я получу цветы?"
+          },
+          "answer": {
+            "en": "Choose tomorrow through the next 30 days, with a morning, midday, or afternoon delivery window. Delivery coverage is confirmed by the seller; contact them before ordering outside your area.",
+            "uz": "Ertadan boshlab 30 kun ichida sana va vaqt oralig‘ini tanlang. Yetkazish hududini sotuvchi tasdiqlaydi; uzoq manzil uchun oldindan yozing.",
+            "ru": "Выберите дату от завтра до 30 дней и временной интервал. Зону доставки подтверждает продавец; заранее уточните доставку в отдалённые районы."
+          }
+        },
+        {
+          "question": {
+            "en": "How do I pay?",
+            "uz": "To‘lov qanday amalga oshiriladi?",
+            "ru": "Как оплатить?"
+          },
+          "answer": {
+            "en": "Pay cash on delivery. No bank card details are collected.",
+            "uz": "Naqd pul bilan yetkazilganda to‘lang. Karta ma’lumotlari so‘ralmaydi.",
+            "ru": "Оплатите наличными при доставке. Данные карты не запрашиваются."
+          }
+        },
+        {
+          "question": {
+            "en": "How do I keep flowers fresh?",
+            "uz": "Gullarni qanday yangi saqlayman?",
+            "ru": "Как сохранить свежесть цветов?"
+          },
+          "answer": {
+            "en": "Trim the stems, use a clean vase, replace the water daily, and keep away from direct sun and heat.",
+            "uz": "Poyalarni qisqartiring, toza vaza ishlating, suvni har kuni almashtiring, quyosh va issiqlikdan saqlang.",
+            "ru": "Подрежьте стебли, используйте чистую вазу, меняйте воду ежедневно и избегайте солнца и тепла."
+          }
+        }
+      ]
+    },
+    "updated": "2026-09-14T09:51:19.827Z"
+  }
+}
+]

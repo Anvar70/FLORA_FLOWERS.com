@@ -1,0 +1,776 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: uz\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "A LITTLE NATURE. A LOT OF FEELING."
+msgstr "BIR OZ TABIAT. CHEKSIZ TUYG‘ULAR."
+
+msgid "A few little details. A bouquet that feels just right."
+msgstr "Bir nechta javob — sizga mos guldasta."
+
+msgid "A few things you might wonder"
+msgstr "Ko‘p so‘raladigan savollar"
+
+msgid "A guided helper, not AI"
+msgstr "Tayyor qoidalar asosida, AI emas"
+
+msgid "A hand-arranged bouquet of fresh flowers"
+msgstr "Yangi gullardan terilgan guldasta"
+
+msgid "A little closer to you, in your language."
+msgstr "Sizga yaqinroq — o‘z tilingizda."
+
+msgid "A little overview of your floral world."
+msgstr "Gullar olamingizga qisqacha nazar."
+
+msgid "A note from the heart"
+msgstr "Samimiy tilak"
+
+msgid "Active"
+msgstr "Faol"
+
+msgid "Add a personal gift message, on us."
+msgstr "Guldastangizga bepul tabrik yozing."
+
+msgid "Add address"
+msgstr "Manzil qo‘shish"
+
+msgid "Add to cart"
+msgstr "Savatga qo‘shish"
+
+msgid "Added to your cart"
+msgstr "Savatga qo‘shildi"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Administrator accounts are created by the shop owner."
+msgstr "Administrator hisobini do‘kon egasi yaratadi."
+
+msgid "All"
+msgstr "Barchasi"
+
+msgid "Appearance"
+msgstr "Ko‘rinish"
+
+msgid "Apply filters"
+msgstr "Filtrlarni qo‘llash"
+
+msgid "Archive"
+msgstr "Arxivlash"
+
+msgid "Archive this item? It will no longer be available to customers. Order history is preserved."
+msgstr "Arxivlansinmi? Mijozlar uchun ko‘rinmaydi. Buyurtmalar tarixi saqlanadi."
+
+msgid "Arranged with heart"
+msgstr "Mehr bilan yaratilgan"
+
+msgid "Back"
+msgstr "Orqaga"
+
+msgid "Beautiful moments begin here."
+msgstr "Go‘zal lahzalar shu yerdan boshlanadi."
+
+msgid "Birthday"
+msgstr "Tug‘ilgan kun"
+
+msgid "Bouquet size"
+msgstr "Guldasta hajmi"
+
+msgid "Browse collections or let Flower Finder guide you."
+msgstr "To‘plamlarni ko‘ring yoki yordamchidan foydalaning."
+
+msgid "Browse flowers"
+msgstr "Gullarni ko‘rish"
+
+msgid "Business contact details must be configured by the shop owner."
+msgstr "Aloqa ma’lumotlarini do‘kon egasi sozlashi kerak."
+
+msgid "Cancel"
+msgstr "Bekor qilish"
+
+msgid "Cancelled"
+msgstr "Bekor qilingan"
+
+msgid "Cash on delivery"
+msgstr "Yetkazilganda naqd to‘lov"
+
+msgid "Change email"
+msgstr "Pochtani o‘zgartirish"
+
+msgid "Change password"
+msgstr "Parolni o‘zgartirish"
+
+msgid "Check the assistant JSON structure and translations."
+msgstr "Yordamchi JSON tuzilmasi va tarjimalarini tekshiring."
+
+msgid "Check the filter values."
+msgstr "Filtr qiymatlarini tekshiring."
+
+msgid "Check your new email for a confirmation link. Local demo: see the server email log."
+msgstr "Tasdiqlash havolasi uchun yangi pochtangizni tekshiring. Mahalliy demoda server pochta jurnaliga qarang."
+
+msgid "Checkout"
+msgstr "Rasmiylashtirish"
+
+msgid "Choose a date and a delivery window."
+msgstr "Sana va yetkazish vaqtini tanlang."
+
+msgid "Choose tomorrow through the next 30 days, with a morning, midday, or afternoon delivery window. Delivery coverage is confirmed by the seller; contact them before ordering outside your area."
+msgstr "Ertadan boshlab 30 kun ichida sana va vaqt oralig‘ini tanlang. Yetkazish hududini sotuvchi tasdiqlaydi; uzoq manzil uchun oldindan yozing."
+
+msgid "Choose your language"
+msgstr "Tilingizni tanlang"
+
+msgid "Close"
+msgstr "Yopish"
+
+msgid "Close navigation"
+msgstr "Menyuni yopish"
+
+msgid "Collected revenue"
+msgstr "Qabul qilingan tushum"
+
+msgid "Collection"
+msgstr "To‘plam"
+
+msgid "Collections"
+msgstr "To‘plamlar"
+
+msgid "Color"
+msgstr "Rang"
+
+msgid "Confirm"
+msgstr "Tasdiqlash"
+
+msgid "Confirm cash received"
+msgstr "Naqd to‘lovni tasdiqlash"
+
+msgid "Confirm password"
+msgstr "Parolni takrorlang"
+
+msgid "Confirm your current password to change your email and login address."
+msgstr "Pochta va kirish manzilini o‘zgartirish uchun joriy parolni tasdiqlang."
+
+msgid "Confirmed"
+msgstr "Tasdiqlangan"
+
+msgid "Connection failed. Your changes were not saved. Please retry."
+msgstr "Ulanish uzildi. O‘zgarishlar saqlanmadi. Qayta urinib ko‘ring."
+
+msgid "Contact seller"
+msgstr "Sotuvchiga yozish"
+
+msgid "Continue"
+msgstr "Davom etish"
+
+msgid "Conversations"
+msgstr "Suhbatlar"
+
+msgid "Create"
+msgstr "Yaratish"
+
+msgid "Create an account"
+msgstr "Ro‘yxatdan o‘tish"
+
+msgid "Current password"
+msgstr "Joriy parol"
+
+msgid "Currently unavailable"
+msgstr "Hozir mavjud emas"
+
+msgid "Customer"
+msgstr "Mijoz"
+
+msgid "Customers"
+msgstr "Mijozlar"
+
+msgid "Dark mode"
+msgstr "Tungi rejim"
+
+msgid "Dashboard"
+msgstr "Boshqaruv"
+
+msgid "Default address"
+msgstr "Asosiy manzil"
+
+msgid "Delete"
+msgstr "O‘chirish"
+
+msgid "Delete account"
+msgstr "Hisobni o‘chirish"
+
+msgid "Delivered"
+msgstr "Yetkazilgan"
+
+msgid "Delivered and paid orders only"
+msgstr "Faqat yetkazilgan va to‘langan buyurtmalar"
+
+msgid "Delivery address"
+msgstr "Yetkazish manzili"
+
+msgid "Delivery date"
+msgstr "Yetkazish sanasi"
+
+msgid "Delivery fee"
+msgstr "Yetkazish narxi"
+
+msgid "Delivery window"
+msgstr "Yetkazish vaqti"
+
+msgid "Delivery, made simple"
+msgstr "Qulay yetkazib berish"
+
+msgid "Demonstration shop · sample catalog"
+msgstr "Namoyish do‘koni · namunaviy katalog"
+
+msgid "Description"
+msgstr "Tavsif"
+
+msgid "Details"
+msgstr "Tafsilotlar"
+
+msgid "Each step uses occasion, color, flower_type or max_price. Include en, uz and ru translations for every label and response."
+msgstr "Har bir qadam occasion, color, flower_type yoki max_price qoidasidan foydalanadi. Matnlar uchun en, uz va ru tarjimalarini kiriting."
+
+msgid "Edit"
+msgstr "Tahrirlash"
+
+msgid "Email address"
+msgstr "Elektron pochta"
+
+msgid "Email or password is incorrect."
+msgstr "Pochta yoki parol noto‘g‘ri."
+
+msgid "Email updated successfully."
+msgstr "Pochta manzili yangilandi."
+
+msgid "Enter a new address"
+msgstr "Yangi manzil kiritish"
+
+msgid "Enter a valid email address."
+msgstr "To‘g‘ri pochta manzilini kiriting."
+
+msgid "Enter a valid phone number."
+msgstr "To‘g‘ri telefon raqamini kiriting."
+
+msgid "Enter your full name."
+msgstr "To‘liq ismingizni kiriting."
+
+msgid "Explore the collection"
+msgstr "To‘plamni ko‘rish"
+
+msgid "Favorites"
+msgstr "Sevimlilar"
+
+msgid "Filters"
+msgstr "Filtrlar"
+
+msgid "Find your flowers"
+msgstr "Gulingizni tanlang"
+
+msgid "Find your perfect bouquet"
+msgstr "Mos guldastani toping"
+
+msgid "Flora is a demonstration floral studio built around a simple idea: meaningful gestures need no occasion. Our sample collections pair soft colors, natural textures, and thoughtful details. Make them your own."
+msgstr "Flora — samimiy e’tibor uchun alohida sana shart emas degan g‘oyaga asoslangan namunaviy gul studiyasi. To‘plamlarimiz mayin ranglar va tabiiy nafislikni birlashtiradi."
+
+msgid "Flower Finder"
+msgstr "Gul tanlash"
+
+msgid "Flower care"
+msgstr "Gullar parvarishi"
+
+msgid "Flower shop"
+msgstr "Gullar do‘koni"
+
+msgid "Flower type"
+msgstr "Gul turi"
+
+msgid "Flowers for the moments that matter."
+msgstr "Qadrli lahzalar uchun gullar."
+
+msgid "Follow your order and chat with the seller."
+msgstr "Buyurtmani kuzating va sotuvchi bilan yozishing."
+
+msgid "Forgot your password?"
+msgstr "Parolni unutdingizmi?"
+
+msgid "Fresh, always"
+msgstr "Doimo yangi"
+
+msgid "From"
+msgstr "Boshlang‘ich narx"
+
+msgid "From our studio to their smile"
+msgstr "Studiyamizdan sizning tabassumingizgacha"
+
+msgid "Full name"
+msgstr "To‘liq ism"
+
+msgid "Gift message (optional)"
+msgstr "Tabrik matni (ixtiyoriy)"
+
+msgid "Guided assistant"
+msgstr "Gul yordamchisi"
+
+msgid "Hello"
+msgstr "Salom"
+
+msgid "Home"
+msgstr "Bosh sahifa"
+
+msgid "How do I keep flowers fresh?"
+msgstr "Gullarni qanday yangi saqlayman?"
+
+msgid "How do I pay?"
+msgstr "To‘lov qanday amalga oshiriladi?"
+
+msgid "If this account exists, a reset link has been sent. Local demo: check the server email log."
+msgstr "Hisob mavjud bo‘lsa, tiklash havolasi yuborildi. Mahalliy demoda server pochta jurnalini tekshiring."
+
+msgid "If you did not request this, ignore this email."
+msgstr "Buni siz so‘ramagan bo‘lsangiz, xatni e’tiborsiz qoldiring."
+
+msgid "Images must be no larger than 5 MB."
+msgstr "Rasm 5 MB dan oshmasligi kerak."
+
+msgid "In progress"
+msgstr "Jarayonda"
+
+msgid "In stock"
+msgstr "Omborda"
+
+msgid "In stock only"
+msgstr "Faqat mavjud"
+
+msgid "Just because"
+msgstr "Shunchaki"
+
+msgid "Label"
+msgstr "Nomi"
+
+msgid "Language"
+msgstr "Til"
+
+msgid "Leave the rest to us"
+msgstr "Qolganini bizga qo‘ying"
+
+msgid "Let's keep in touch"
+msgstr "Bog‘lanamiz"
+
+msgid "Light mode"
+msgstr "Yorug‘ rejim"
+
+msgid "Loading…"
+msgstr "Yuklanmoqda…"
+
+msgid "Log in"
+msgstr "Kirish"
+
+msgid "Log out"
+msgstr "Chiqish"
+
+msgid "Low stock variants"
+msgstr "Kam qolgan variantlar"
+
+msgid "Made to make their day"
+msgstr "Quvonch ulashish uchun"
+
+msgid "Make it personal"
+msgstr "Shaxsiy tilak qo‘shing"
+
+msgid "Mark all as read"
+msgstr "Barchasini o‘qilgan qilish"
+
+msgid "Mark as read"
+msgstr "O‘qilgan qilish"
+
+msgid "Maximum price"
+msgstr "Eng yuqori narx"
+
+msgid "Messages"
+msgstr "Xabarlar"
+
+msgid "Messages refresh every 12 seconds."
+msgstr "Xabarlar har 12 soniyada yangilanadi."
+
+msgid "Minimum price"
+msgstr "Eng kam narx"
+
+msgid "Mixed"
+msgstr "Aralash"
+
+msgid "My cart"
+msgstr "Savatim"
+
+msgid "My orders"
+msgstr "Buyurtmalarim"
+
+msgid "New conversation"
+msgstr "Yangi suhbat"
+
+msgid "New order received"
+msgstr "Yangi buyurtma qabul qilindi"
+
+msgid "New password confirmation:"
+msgstr "Yangi parolni takrorlang:"
+
+msgid "New password:"
+msgstr "Yangi parol:"
+
+msgid "Newest first"
+msgstr "Avval yangilari"
+
+msgid "Next"
+msgstr "Keyingi"
+
+msgid "No flowers match your filters. Try broadening your search."
+msgstr "Filtrlarga mos gullar topilmadi. Qidiruvni kengaytirib ko‘ring."
+
+msgid "Nothing here yet"
+msgstr "Hozircha hech narsa yo‘q"
+
+msgid "Notifications"
+msgstr "Bildirishnomalar"
+
+msgid "Occasion"
+msgstr "Sabab"
+
+msgid "Only delivered orders can be marked as paid."
+msgstr "Faqat yetkazilgan buyurtma to‘langan deb belgilanadi."
+
+msgid "Open navigation"
+msgstr "Menyuni ochish"
+
+msgid "Order"
+msgstr "Buyurtma"
+
+msgid "Order notes (optional)"
+msgstr "Izoh (ixtiyoriy)"
+
+msgid "Order status updated"
+msgstr "Buyurtma holati yangilandi"
+
+msgid "Order summary"
+msgstr "Buyurtma hisobi"
+
+msgid "Our story"
+msgstr "Biz haqimizda"
+
+msgid "Out for delivery"
+msgstr "Yetkazilmoqda"
+
+msgid "Overview"
+msgstr "Umumiy ko‘rinish"
+
+msgid "Paid"
+msgstr "To‘langan"
+
+msgid "Password"
+msgstr "Parol"
+
+msgid "Password changed successfully."
+msgstr "Parol o‘zgartirildi."
+
+msgid "Passwords do not match."
+msgstr "Parollar mos emas."
+
+msgid "Pay cash on delivery. No bank card details are collected."
+msgstr "Naqd pul bilan yetkazilganda to‘lang. Karta ma’lumotlari so‘ralmaydi."
+
+msgid "Payment status"
+msgstr "To‘lov holati"
+
+msgid "Pending"
+msgstr "Kutilmoqda"
+
+msgid "Phone number"
+msgstr "Telefon raqami"
+
+msgid "Pick a size, add a note, and choose delivery."
+msgstr "Hajm, tabrik va yetkazish vaqtini tanlang."
+
+msgid "Pink"
+msgstr "Pushti"
+
+msgid "Place order"
+msgstr "Buyurtma berish"
+
+msgid "Please check all required fields and their values."
+msgstr "Majburiy maydonlar va qiymatlarni tekshiring."
+
+msgid "Please confirm this action."
+msgstr "Amalni tasdiqlang."
+
+msgid "Prepared response"
+msgstr "Tayyor javob"
+
+msgid "Prepared with care for your chosen day."
+msgstr "Siz tanlagan kun uchun e’tibor bilan tayyorlanadi."
+
+msgid "Preparing"
+msgstr "Tayyorlanmoqda"
+
+msgid "Price"
+msgstr "Narx"
+
+msgid "Price: high to low"
+msgstr "Narx: qimmatidan"
+
+msgid "Price: low to high"
+msgstr "Narx: arzonidan"
+
+msgid "Prices include the selected bouquet. No discount codes are configured."
+msgstr "Narx tanlangan guldasta uchun. Chegirma kodlari sozlanmagan."
+
+msgid "Product name"
+msgstr "Mahsulot nomi"
+
+msgid "Product photo"
+msgstr "Mahsulot rasmi"
+
+msgid "Products"
+msgstr "Mahsulotlar"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Profile photo"
+msgstr "Profil rasmi"
+
+msgid "Provide text translations, including English as a fallback."
+msgstr "Matn tarjimalarini, jumladan inglizcha asosiy matnni kiriting."
+
+msgid "Public administrator registration is not allowed."
+msgstr "Ochiq admin ro‘yxatdan o‘tishi mumkin emas."
+
+msgid "Quantity"
+msgstr "Miqdor"
+
+msgid "Questions, answers and rules (JSON)"
+msgstr "Savollar, javoblar va qoidalar (JSON)"
+
+msgid "Recent orders"
+msgstr "So‘nggi buyurtmalar"
+
+msgid "Recipient name"
+msgstr "Qabul qiluvchi ismi"
+
+msgid "Red"
+msgstr "Qizil"
+
+msgid "Remove"
+msgstr "Olib tashlash"
+
+msgid "Remove photo"
+msgstr "Rasmni olib tashlash"
+
+msgid "Reset filters"
+msgstr "Filtrlarni tozalash"
+
+msgid "Reset password"
+msgstr "Parolni tiklash"
+
+msgid "Reset your password"
+msgstr "Parolingizni tiklang"
+
+msgid "Review your order"
+msgstr "Buyurtmani tekshiring"
+
+msgid "Romance"
+msgstr "Sevgi"
+
+msgid "Rooted in nature.<br>Made for connection."
+msgstr "Tabiatdan ilhom.<br>Qalblarga yaqin."
+
+msgid "Roses"
+msgstr "Atirgullar"
+
+msgid "Save"
+msgstr "Saqlash"
+
+msgid "Save changes"
+msgstr "Saqlash"
+
+msgid "Saved addresses"
+msgstr "Saqlangan manzillar"
+
+msgid "Saved successfully"
+msgstr "Saqlandi"
+
+msgid "Say it<br>with <em>flowers.</em>"
+msgstr "Tuyg‘ularingizni<br><em>gullar aytsin.</em>"
+
+msgid "Search flowers…"
+msgstr "Gullarni qidirish…"
+
+msgid "Seasonal mix"
+msgstr "Mavsumiy gullar"
+
+msgid "Select a date from tomorrow through the next 30 days."
+msgstr "Ertadan boshlab 30 kun ichidagi sanani tanlang."
+
+msgid "Seller"
+msgstr "Sotuvchi"
+
+msgid "Send message"
+msgstr "Yuborish"
+
+msgid "Settings"
+msgstr "Sozlamalar"
+
+msgid "Show all available flowers"
+msgstr "Barcha mavjud gullar"
+
+msgid "Skip to content"
+msgstr "Asosiy qismga o?tish"
+
+msgid "Something went wrong. Please try again."
+msgstr "Xatolik yuz berdi. Qayta urinib ko‘ring."
+
+msgid "Sort by"
+msgstr "Saralash"
+
+msgid "Start again"
+msgstr "Qayta boshlash"
+
+msgid "Status"
+msgstr "Holat"
+
+msgid "Stock has changed or this quantity is unavailable. Please update your cart."
+msgstr "Ombor qoldig‘i o‘zgargan yoki miqdor mavjud emas. Savatni yangilang."
+
+msgid "Subject"
+msgstr "Mavzu"
+
+msgid "Subtotal"
+msgstr "Mahsulotlar jami"
+
+msgid "System notification"
+msgstr "Tizim bildirishnomasi"
+
+msgid "THE SEASON'S LOVELIEST"
+msgstr "MAVSUMNING ENG GO‘ZALLARI"
+
+msgid "Thank you"
+msgstr "Minnatdorchilik"
+
+msgid "The Blush Edit"
+msgstr "Nafis pushti"
+
+msgid "The current password is incorrect."
+msgstr "Joriy parol noto‘g‘ri."
+
+msgid "The last active administrator cannot be deleted."
+msgstr "Oxirgi faol administratorni o‘chirib bo‘lmaydi."
+
+msgid "This account does not have administrator access."
+msgstr "Bu hisobda administrator huquqi yo‘q."
+
+msgid "This email is already registered."
+msgstr "Bu pochta ro‘yxatdan o‘tgan."
+
+msgid "This link is invalid or expired."
+msgstr "Havola yaroqsiz yoki muddati tugagan."
+
+msgid "This order status change is not allowed."
+msgstr "Bu holat o‘zgarishiga ruxsat yo‘q."
+
+msgid "This permanently deletes your account, messages, addresses and favorites. Orders retain anonymized financial records. Enter your current password to confirm."
+msgstr "Hisob, xabarlar, manzillar va sevimlilar butunlay o‘chadi. Buyurtmalarning shaxssiz moliyaviy yozuvlari saqlanadi. Tasdiqlash uchun joriy parolni kiriting."
+
+msgid "This submission key has already been used."
+msgstr "Bu yuborish kaliti ishlatilgan."
+
+msgid "Thoughtful details in every stem."
+msgstr "Har bir gulda alohida e’tibor."
+
+msgid "Thoughtfully arranged. Lovingly delivered. Discover flowers for the big days, the small joys, and every moment in between."
+msgstr "Mehr bilan terilgan, e’tibor bilan yetkazilgan. Muhim kunlar va oddiy quvonchlar uchun o‘zingizga mos guldastani toping."
+
+msgid "To be configured by the shop owner"
+msgstr "Do?kon egasi sozlashi kerak"
+
+msgid "Toggle favorite"
+msgstr "Sevimlilarga qo‘shish / olib tashlash"
+
+msgid "Too many attempts. Please try again in 15 minutes."
+msgstr "Urinishlar ko‘p. 15 daqiqadan keyin urinib ko‘ring."
+
+msgid "Total"
+msgstr "Jami"
+
+msgid "Total orders"
+msgstr "Buyurtmalar soni"
+
+msgid "Trim the stems, use a clean vase, replace the water daily, and keep away from direct sun and heat."
+msgstr "Poyalarni qisqartiring, toza vaza ishlating, suvni har kuni almashtiring, quyosh va issiqlikdan saqlang."
+
+msgid "Try again"
+msgstr "Qayta urinish"
+
+msgid "Tulips"
+msgstr "Lolalar"
+
+msgid "Unit price"
+msgstr "Bir dona narxi"
+
+msgid "Unpaid"
+msgstr "To‘lanmagan"
+
+msgid "Unread notifications"
+msgstr "O‘qilmagan bildirishnomalar"
+
+msgid "Use a saved address"
+msgstr "Saqlangan manzilni tanlash"
+
+msgid "Use a valid JPEG, PNG or WebP image, up to 16 megapixels."
+msgstr "16 megapikselgacha JPEG, PNG yoki WebP rasm ishlating."
+
+msgid "Use at least 8 characters, avoid common passwords and personal details."
+msgstr "Kamida 8 belgi ishlating, oddiy parol va shaxsiy ma’lumotlardan foydalanmang."
+
+msgid "Variant"
+msgstr "Variant"
+
+msgid "Variants & inventory"
+msgstr "Variantlar va ombor"
+
+msgid "View all flowers"
+msgstr "Barcha gullar"
+
+msgid "Welcome back"
+msgstr "Xush kelibsiz"
+
+msgid "When can I receive my flowers?"
+msgstr "Gullarni qachon olaman?"
+
+msgid "White"
+msgstr "Oq"
+
+msgid "Yellow"
+msgstr "Sariq"
+
+msgid "You"
+msgstr "Siz"
+
+msgid "You do not have access to this action."
+msgstr "Bu amalga ruxsatingiz yo‘q."
+
+msgid "Your cart is empty."
+msgstr "Savat bo‘sh."
+
+msgid "Your flower matches"
+msgstr "Sizga mos gullar"
+
+msgid "Your message"
+msgstr "Xabaringiz"
+
+msgid "Your next lovely gesture starts here. Add some flowers to your cart."
+msgstr "Go‘zal e’tiboringiz shu yerdan boshlanadi. Savatga gul qo‘shing."
+
+msgid "Your order has been received"
+msgstr "Zakazingiz qabul qilindi"
+
+msgid "Your preferences are saved to your account."
+msgstr "Sozlamalaringiz hisobingizda saqlanadi."
